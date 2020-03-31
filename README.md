@@ -9,3 +9,8 @@ For each classes, add the necessary attributes (must be `double`), then a constr
 
 Create a class `Square`, which inherits `Rectangle`.
 Add a `side` attribute (must be `double`), then add a constructor that calls `super`.
+
+### Bonus :
+
+* Add the method perimeter() to the Shape interface
+* Create a list of Shape objects and order them by ascending area

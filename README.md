@@ -12,5 +12,4 @@ Add a `side` attribute (must be `double`), then add a constructor that calls `su
 
 ### Bonus :
 
-* Add the method perimeter() to the Shape interface
-* Create a list of Shape objects and order them by ascending area
+* Create a list of Shape objects and order them by ascending area (using Comparator)

@@ -1,4 +1,4 @@
-# Convertir vers PascalCaseSolution
+# Convertir vers PascalCase
 
 Ecrire une méthode qui convertit une chaine en PascalCaseSolution : pratique qui consiste à écrire un ensemble de mots en les liant sans espace ni ponctuation, et en mettant en capitale la première lettre de chaque mot.
 

@@ -16,6 +16,7 @@ import java.util.List;
 public class SchoolController {
 
     @GetMapping("/students")
+    @ResponseBody
     public List<Student> showStudents() {
 
         List<Student> students = new ArrayList<>();

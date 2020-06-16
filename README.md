@@ -1,3 +1,3 @@
-# Sum of Odds
+# Only Odds
 
-Create a methods which returns the sum of all odd values contained in an integer array.
+Create a methods which filter the values of an Integer list and only keeps odds.

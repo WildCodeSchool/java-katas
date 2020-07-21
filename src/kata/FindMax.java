@@ -1,8 +1,7 @@
 public class FindMax {
 
-    public static int max(TreeNode root) {
+    public static int max(TreeNode node) {
 
         // TODO
-        return 0;
     }
 }

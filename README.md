@@ -2,15 +2,17 @@
 
 You are given a binary tree. Implement the method *findMax* which returns the maximum value. 
 
+If the tree is null, return 0.
+
 *E.g:*
 ```
         13
        /   \
-      3     5
+      3     15
      /    /  \
-    2    16   17
+    2    6   17
              /
-            13
+            14
             
 result : 17
 ```
